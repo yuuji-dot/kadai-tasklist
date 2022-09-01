@@ -10,8 +10,8 @@
 			<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect"/>
 			<property name="hibernate.show_sql" value="true"/>
 			<property name="hibernate.format_sql" value="true"/>
-			<property name="javax.persistence.jdbc.user" value="kadai"/>
-			<property name="javax.persistence.jdbc.password" value="kadaispass"/>
+			<property name="javax.persistence.jdbc.user" value="kadai3"/>
+			<property name="javax.persistence.jdbc.password" value="kadaipass3"/>
 		</properties>
 	</persistence-unit>
 </persistence>
